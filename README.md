@@ -1,6 +1,10 @@
 # Neptune Tea — Bubble Tea Shop Website
 https://neptunetea-shop.netlify.app/
 
+# Backend Swagger UI dashboard
+# 🍵 Neptune Tea API
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://neptunetea.onrender.com/api/menu)
+
 A clean, mobile-first website for a local bubble tea shop with a modern, cozy, and slightly futuristic aesthetic. Built with pure HTML and CSS.
 
 ---
