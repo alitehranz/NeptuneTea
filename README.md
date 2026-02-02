@@ -3,7 +3,7 @@ https://neptunetea-shop.netlify.app/
 
 # Backend Swagger UI dashboard
 # 🍵 Neptune Tea API
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://neptunetea.onrender.com/api/menu)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://neptunetea.onrender.com/api/menu) Note: This is a REST API. For the best viewing experience, I recommend using the JSON Formatter extension or viewing the Swagger Documentation.
 
 https://neptunetea.onrender.com
 
