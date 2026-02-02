@@ -5,6 +5,8 @@ https://neptunetea-shop.netlify.app/
 # 🍵 Neptune Tea API
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://neptunetea.onrender.com/api/menu)
 
+https://neptunetea.onrender.com
+
 A clean, mobile-first website for a local bubble tea shop with a modern, cozy, and slightly futuristic aesthetic. Built with pure HTML and CSS.
 
 ---
